@@ -1,0 +1,28 @@
+.progress {
+    position: relative;
+    margin-bottom:10px;
+}
+
+.progress span {
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+ }
+.gameLogo{
+    background-image:url(/images/logo.png);
+    background-repeat:no-repeat;
+    background-size:auto;
+    height: 75px;
+}
+.borderBottom{
+    border-bottom:1px solid;
+}
+.progress-bar{
+    -webkit-transition: width .1s ease;
+    transition: width .1s ease;
+}
+.border{
+    border: 1px solid;
+    margin-top:5px;
+}
