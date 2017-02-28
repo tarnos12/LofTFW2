@@ -10,7 +10,7 @@
     color: black;
  }
 .gameLogo{
-    background-image:url(/images/logo.png);
+    background-image:url(../images/logo.png);
     background-repeat:no-repeat;
     background-size:auto;
     height: 75px;
